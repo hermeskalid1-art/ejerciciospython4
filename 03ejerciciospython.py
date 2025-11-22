@@ -1,0 +1,1 @@
+print ("Durante 70 dias de trabajo ana gano $3500, ¿cuanto ganaria si trabajara 12 dias mas?")
